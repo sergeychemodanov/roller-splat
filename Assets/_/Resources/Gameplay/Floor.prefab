@@ -122,3 +122,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b00c30dcc88e483aa690c86c133b9455, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _completedMaterial: {fileID: 2100000, guid: ebc75f02ed7fd6a4097eb50f6b367b37, type: 2}
+  _meshRenderer: {fileID: 525512419931347997}

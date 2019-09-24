@@ -17,7 +17,7 @@ namespace AwesomeCompany.RollerSplat.UI.Windows
 
         private void OnPlayButtonClicked()
         {
-            var level = App.instance.dynamicDataProvider.levels.First();
+            var level = App.instance.dynamicData.levels.First();
             App.instance.gameController.Play(level);
             Close();
         }
